@@ -11,6 +11,7 @@ aux_links:
   "My Website":
     - "/"
 search_enabled: false
+markdown: GFM
 plugins:
   - jekyll-default-layout
   - jekyll-github-metadata
