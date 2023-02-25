@@ -5,8 +5,8 @@ repository: edbritton/iOS-shortcuts
 remote_theme: pmarsceill/just-the-docs
 color_scheme: gmi
 aux_links:
-  "View the collection":
-    - "https://github.com/edbritton/iOS-shortcuts/tree/main/shortcuts"
+  "GitHub":
+    - "https://github.com/edbritton/iOS-shortcuts"
   "My Projects":
     - "/repos"
   "My Website":
