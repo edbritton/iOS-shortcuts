@@ -17,9 +17,9 @@ On Mac, iPhone, iPad, and Apple Watch.
 | [Save as]                   | Lets you rename a file with a different file extension.     |
 | [Suspicious QR]             | Lets you read a QR code without opening it.                 |
 
-[Backup Workflows]: shortcuts/Backup%Workflows.shortcut
+[Backup Workflows]: shortcuts/Backup%20Workflows.shortcut
 [Built-in Sounds]: shortcuts/Built-in%20Sounds.shortcut
-[Clean up my shopping list]: shortcuts/Clean%20up%my%20shopping%list.shortcut
+[Clean up my shopping list]: shortcuts/Clean%20up%20my%20shopping%20list.shortcut
 [EQ]: shortcuts/EQ.shortcut
 [Save as]: shortcuts/Save%20as.shortcut
 [Suspicious QR]: shortcuts/Suspicious%20QR.shortcut
