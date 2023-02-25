@@ -10,3 +10,10 @@ aux_links:
     - "/repos"
   "My Website":
     - "/"
+search_enabled: false
+plugins:
+  - jekyll-default-layout
+  - jekyll-github-metadata
+  - jekyll-mentions
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
