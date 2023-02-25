@@ -1,11 +1,12 @@
+title: Ed’s iOS Shortcuts
 baseurl: "/iOS-shortcuts"
 url: "https://edbritton.github.io"
 repository: edbritton/iOS-shortcuts
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 aux_links:
-  "View on GitHub":
-    - "https://github.com/edbritton/iOS-shortcuts"
+  "View the collection":
+    - "https://github.com/edbritton/iOS-shortcuts/tree/main/shortcuts"
   "My Projects":
     - "/repos"
   "My Website":
