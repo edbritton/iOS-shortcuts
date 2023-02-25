@@ -3,7 +3,7 @@ baseurl: "/iOS-shortcuts"
 url: "https://edbritton.github.io"
 repository: edbritton/iOS-shortcuts
 remote_theme: pmarsceill/just-the-docs
-color_scheme: dark
+color_scheme: custom
 aux_links:
   "View the collection":
     - "https://github.com/edbritton/iOS-shortcuts/tree/main/shortcuts"
