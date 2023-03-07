@@ -7,7 +7,7 @@ Where to use them
 -----------------
 On Mac, iPhone, iPad, and Apple Watch.
 
-→ https://apps.apple.com/au/app/shortcuts/id1462947752
+→ https://apps.apple.com/app/shortcuts/id1462947752
 
 ---
 
