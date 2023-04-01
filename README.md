@@ -9,6 +9,17 @@ On Mac, iPhone, iPad, and Apple Watch.
 
 → https://appstore.com/apple/shortcuts
 
+
+Allowing these to work
+----------------------
+As a safety measure, by default downloaded shortcuts won't work, so you have to turn in a setting.
+
+1. Open "Settings"
+2. Select "Shortcuts"
+3. Enable "Private Sharing"
+
+If this makes you anxious, turn it off after downloading any shortcuts. If you're *super* nervous, Shortcuts will show you what's being installed before you commit to it, so have a look to see if you think it's an evil shortcut.
+
 ---
 
 | Shortcut                    | Description                                                 |
