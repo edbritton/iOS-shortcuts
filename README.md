@@ -18,6 +18,7 @@ On Mac, iPhone, iPad, and Apple Watch.
 | [Clean up my shopping list] | Delete completed items from your “Shopping” Reminders list. |
 | [EQ]                        | Opens EQ settings for Music app.                            |
 | [Passwords]                 | Put iOS/iPadOS password management on the home screen.[^1]  |
+| [Remote]                    | Put Remote app back on the home screen.[^1]                 |
 | [Save as]                   | Lets you rename a file with a different file extension.     |
 | [Suspicious QR]             | Lets you read a QR code without opening it.                 |
 
@@ -28,5 +29,6 @@ On Mac, iPhone, iPad, and Apple Watch.
 [Clean up my shopping list]: shortcuts/Clean%20up%20my%20shopping%20list.shortcut
 [EQ]: shortcuts/EQ.shortcut
 [Passwords]: shortcuts/Passwords.shortcut
+[Remote]: shortcuts/Remote.shortcut
 [Save as]: shortcuts/Save%20as.shortcut
 [Suspicious QR]: shortcuts/Suspicious%20QR.shortcut
