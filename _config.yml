@@ -1,21 +1,13 @@
 title: Ed’s iOS Shortcuts
-baseurl: "/iOS-shortcuts"
-url: "https://edbritton.github.io"
-repository: edbritton/iOS-shortcuts
-remote_theme: pmarsceill/just-the-docs
-color_scheme: gmi
-aux_links:
-  "GitHub":
-    - "https://github.com/edbritton/iOS-shortcuts"
-  "My Projects":
-    - "/repos"
-  "My Website":
-    - "/"
-search_enabled: false
+remote_theme: edbritton/edbritton.github.io
+sass:
+  style: compressed # possible values: nested expanded compact compressed
 markdown: GFM
 plugins:
   - jekyll-default-layout
+  - jekyll-feed
   - jekyll-github-metadata
   - jekyll-mentions
-  - jekyll-readme-index
-  - jekyll-titles-from-headings
+  - jekyll-octicons
+  - jekyll-redirect-from
+  - jekyll-seo-tag
