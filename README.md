@@ -9,6 +9,17 @@ On Mac, iPhone, iPad, and Apple Watch.
 
 https://appstore.com/apple/shortcuts
 
+
+Allowing these to work
+----------------------
+As a safety measure, by default downloaded shortcuts won't work, so you have to turn in a setting.
+
+1. Open "Settings"
+2. Select "Shortcuts"
+3. Enable "Private Sharing"
+
+If this makes you anxious, turn it off after downloading any shortcuts. If you're *super* nervous, Shortcuts will show you what's being installed before you commit to it, so have a look to see if you think it's an evil shortcut.
+
 ---
 
 | Shortcut                    | Description                                                 |
@@ -18,6 +29,7 @@ https://appstore.com/apple/shortcuts
 | [Clean up my shopping list] | Delete completed items from your “Shopping” Reminders list. |
 | [EQ]                        | Opens EQ settings for Music app.                            |
 | [Passwords]                 | Put iOS/iPadOS password management on the home screen.[^1]  |
+| [Remote]                    | Put Remote app back on the home screen.[^1]                 |
 | [Save as]                   | Lets you rename a file with a different file extension.     |
 | [Suspicious QR]             | Lets you read a QR code without opening it.                 |
 
@@ -28,5 +40,6 @@ https://appstore.com/apple/shortcuts
 [Clean up my shopping list]: shortcuts/Clean%20up%20my%20shopping%20list.shortcut
 [EQ]: shortcuts/EQ.shortcut
 [Passwords]: shortcuts/Passwords.shortcut
+[Remote]: shortcuts/Remote.shortcut
 [Save as]: shortcuts/Save%20as.shortcut
 [Suspicious QR]: shortcuts/Suspicious%20QR.shortcut
