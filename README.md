@@ -12,7 +12,7 @@ https://appstore.com/apple/shortcuts
 
 Allowing these to work
 ----------------------
-As a safety measure, by default downloaded shortcuts won't work, so you have to turn in a setting.
+As a safety measure, by default, downloaded shortcuts won't work, so you have to turn on a setting.
 
 1. Open "Settings"
 2. Select "Shortcuts"
