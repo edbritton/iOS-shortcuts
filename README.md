@@ -43,3 +43,7 @@ If this makes you anxious, turn it off after downloading any shortcuts. If you'r
 [Remote]: shortcuts/Remote.shortcut
 [Save as]: shortcuts/Save%20as.shortcut
 [Suspicious QR]: shortcuts/Suspicious%20QR.shortcut
+
+*Note:*  
+1. Passwords shortcut has been Sherlocked by Passwords app, except for the easy to access Safari payment cards access.
+2. Clean up my shopping list has been Sherlocked by Reminders delete completed feature. 
